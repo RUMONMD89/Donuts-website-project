@@ -5,4 +5,4 @@
 <img src="PhotoGIF @donauts2.gif"  width ="700px" >
 <img src="PhotoGIF @donauts3.gif"  width ="700px" >
 
-### thanks for watching... ###
+### thanks for watching.... ###
